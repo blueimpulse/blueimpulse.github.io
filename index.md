@@ -12,9 +12,10 @@
 ### 2022年11月 发布书单 ##
 
 - **管理 《你的团队需要一个会讲故事的人-用故事思维解决问题》** _[图书介绍](https://book.douban.com/subject/26780215/)_  &ensp;&ensp;在库未出
-- **国学 《冰鉴-中国识人第一书》** _[图书介绍](https://book.douban.com/subject/6534729/)_   在库未出
+- **国学 《冰鉴-中国识人第一书》** _[图书介绍](https://book.douban.com/subject/6534729/)_   &ensp;&ensp;在库未出
 - **管理 《每一次都作对决策》** _[图书介绍](https://book.douban.com/subject/1892895/)_  &ensp;&ensp;在库未出
 - **旅游 《尼泊尔 lonely planet 2016年版本》**  _[图书介绍](https://book.douban.com/subject/26897889/)_  &ensp;&ensp;在库未出
 - **旅游 《瑞士 lonely planet 2016年版本》**  _[图书介绍](https://book.douban.com/subject/30450328/)_  &ensp;&ensp;在库未出
 - **旅游 《爱尔兰 lonely planet 2016年版本》**  _[图书介绍](https://book.douban.com/subject/27195756/)_  &ensp;&ensp;在库未出
 - **旅游 《冰岛 lonely planet 2016年版本》**  _[图书介绍](https://book.douban.com/subject/30134993/)_  &ensp;&ensp;在库未出
+......
