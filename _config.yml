@@ -1,4 +1,4 @@
-theme: pages-themes/leap-day@v0.2.0
+theme: jekyll-theme-leap-day
 title: 书蔓社
 description: 书蔓社，以书为蔓
 language: zh-CN
